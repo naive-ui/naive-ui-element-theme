@@ -1,0 +1,64 @@
+{
+  "common": {
+    "borderColor": "#dcdfe6",
+    "dividerColor": "#ebeef5",
+    "primaryColor": "#409eff",
+    "primaryColorHover": "#66b1ff",
+    "primaryColorPressed": "#3a8ee6",
+    "placeholderColor": "#c0c4cb",
+    "heightSmall": "24px",
+    "heightTiny": "24px",
+    "borderRadius": "4px",
+    "borderRadiusSmall": "4px",
+    "infoColor": "#909399",
+    "infoColorHover": "#a6a9ad",
+    "infoColorPressed": "#82848a",
+    "successColor": "#67c23a",
+    "successColorHover": "#85ce61",
+    "successColorPressed": "#5daf34",
+    "warningColor": "#e6a23c",
+    "warningColorHover": "#ebb563",
+    "warningColorPressed": "#cf9236",
+    "errorColor": "#f56c6c",
+    "errorColorHover": "#f78989",
+    "errorColorPressed": "#dd6161",
+    "textColor2": "rgba(96, 98, 102, 1)",
+    "textColor1": "rgba(48, 49, 51, 1)",
+    "tableHeaderColor": "transparent",
+    "fontWeightStrong": "500",
+    "heightMedium": "32px"
+  },
+  "Input": {
+    "paddingLeftMedium": "16px",
+    "paddingRightMedium": "16px"
+  },
+  "Button": {
+    "paddingMedium": "0 16px",
+    "paddingLarge": "0 20px",
+    "paddingSmall": "0 12px"
+  },
+  "Progress": {
+    "railHeight": "6px"
+  },
+  "Checkbox": {
+    "textColor": "#606266"
+  },
+  "Alert": {
+    "border": "none",
+    "borderInfo": "none",
+    "borderSuccess": "none",
+    "borderWarning": "none",
+    "borderError": "none"
+  },
+  "Anchor": {
+    "linkFontSize": "12px",
+    "linkColor": "transparent",
+    "railColorActive": "#409effFF",
+    "linkPadding": "0 0 0 10px",
+    "railWidth": "4px",
+    "railColor": "rgba(219, 219, 223, 0)"
+  },
+  "DataTable": {
+    "thTextColor": "rgba(144, 147, 153, 1)"
+  }
+}
